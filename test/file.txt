@@ -1,0 +1,9 @@
+total 40
+drwxr-xr-x  8 muhanglin  staff   256  5 16 17:51 .
+drwxr-xr-x  4 muhanglin  staff   128  5 16 15:18 ..
+-rw-r--r--@ 1 muhanglin  staff  6148  5 16 17:28 .DS_Store
+drwxr-xr-x  8 muhanglin  staff   256  5 13 18:48 .idea
+-rw-r--r--@ 1 muhanglin  staff     0  5 16 17:51 file.txt
+-rwxr--r--@ 1 muhanglin  staff   486  5 15 15:25 main.py
+-rw-r--r--  1 muhanglin  staff  8192  5 15 15:25 test.db
+drwxr-xr-x  8 muhanglin  staff   256  5 16 16:35 venv
